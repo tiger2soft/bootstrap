@@ -1216,10 +1216,6 @@
       "version": "1.0.1",
       "resolved": "https://registry.npmjs.org/grunt-lib-phantomjs/-/grunt-lib-phantomjs-1.0.1.tgz"
     },
-    "grunt-line-remover": {
-      "version": "0.0.2",
-      "resolved": "https://registry.npmjs.org/grunt-line-remover/-/grunt-line-remover-0.0.2.tgz"
-    },
     "grunt-postcss": {
       "version": "0.8.0",
       "resolved": "https://registry.npmjs.org/grunt-postcss/-/grunt-postcss-0.8.0.tgz"
